@@ -1,3 +1,7 @@
+mod d1;
+use d1::{part1, part2};
+
 fn main() {
-    println!("Hello, world!");
+    part1();
+    part2();
 }
