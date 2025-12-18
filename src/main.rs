@@ -1,5 +1,5 @@
-mod d2;
-use d2::{part1, part2};
+mod d3;
+use d3::{part1, part2};
 
 fn main() {
     part1();
